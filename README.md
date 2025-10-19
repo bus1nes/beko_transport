@@ -4,7 +4,7 @@ Website profesional për Beko Transport, kompani transporti mallrash në Shqipë
 
 ## 🌐 Live Website
 
-**URL:** https://ogurra19.github.io/beko_transport/
+**URL:** https://bekotransport.com
 
 ## 📋 Përshkrim
 
@@ -159,3 +159,4 @@ Nëse dëshironi një domain si `bekotransport.com`:
 **Faqja është gati për publikim!** 🎉
 
 Për pyetje ose ndihmë, kontaktoni Olsi Gurra.
+
